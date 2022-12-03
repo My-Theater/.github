@@ -6,4 +6,6 @@
 
 </div>
 
+## A description about us
+
 My Theater is an organization that helps bring movies and videos to life.
